@@ -13,7 +13,8 @@ Temel olarak methodun iş yapan mantık kısmına odaklanmaya ve kod kalabalığ
 yarar diyebiliriz.
 1)	Lambda "Functional Programming" dir. "Functional Programming" de "Nasıl yaparım?" değil "Ne yaparım?" düşünülür.
 2)	"Structured Programming" de "Ne yaparım?" dan çok "Nasıl yaparım?" düşünülür.
-3)	"Functional Programming" hız, kod kısalığı, kod okunabilirliği ve hatasız kod yazma (güvenilirlik) açılarından çok faydalıdır.
+3)	"Functional Programming" hız, kod kısalığı, kod okunabilirliği ve hatasız kod yazma (güvenilirlik) açılarından
+çok faydalıdır.
 4)	Lambda sadece Collection'larda (List, Queue ve Set) ve Array'lerde kullanılabilir.
 
  Lambda’yi aşağıdaki gibi farklı sahalarda kullanabiliriz;
