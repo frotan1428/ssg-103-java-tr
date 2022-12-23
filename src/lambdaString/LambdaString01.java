@@ -43,7 +43,8 @@ public class LambdaString01 {
        */
     // S1: ilk harfi d ve ya c olanlari listeleyelim
     public static List<String> dcIleBasYaz(List<String> l){
-        return l.stream().filter(t->t.startsWith("d") || t.startsWith("c") ).collect(Collectors.toList());
+        return l.stream().filter(t->t.startsWith("d") || t.startsWith("c") )
+        .collect(Collectors.toList());
     }
 
     //S2: tum stringlerin basina ve sonuna yildiz ekleyerek yazdiralim
